@@ -1,0 +1,9 @@
+CARPETA DE LA PAGINA - FRATERNIDAD RAICES CASMEÑAS
+
+index.html     -> la pagina (estructura y textos)
+css/style.css  -> colores y diseño
+js/datos.js    -> AQUI AGREGAS: presentaciones, concursos, premios, reconocimientos, convocatorias y cumpleaños
+js/app.js      -> funcionamiento (filtros, relojes, animaciones). No hace falta tocarlo
+img/logo.jpg   -> el logo (para convocatorias, guarda las imagenes en esta carpeta, ej: img/convocatoria1.jpg)
+
+PARA SUBIR A NETLIFY: arrastra la CARPETA completa (descomprimida) en Deploys.
